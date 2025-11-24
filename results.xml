@@ -1,0 +1,17 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="3.345712999999989">
+<testsuite name="practice\APITestingGet.spec.ts" timestamp="2025-11-21T06:57:02.609Z" hostname="" tests="1" failures="0" skipped="0" time="1.237" errors="0">
+<testcase name="API testing Get Practice 5" classname="practice\APITestingGet.spec.ts" time="1.237">
+<system-out>
+<![CDATA[{
+  firstname: [32m'Josh'[39m,
+  lastname: [32m'Allen'[39m,
+  totalprice: [33m111[39m,
+  depositpaid: [33mtrue[39m,
+  bookingdates: { checkin: [32m'2018-01-01'[39m, checkout: [32m'2019-01-01'[39m },
+  additionalneeds: [32m'super bowls'[39m
+}
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

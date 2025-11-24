@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","383","test3@reg","","Wed Nov 05 11:55:03 IST 2025","passed","Wed Nov 05 11:55:04 IST 2025","","practice\Tags.spec.js","",""
+"","369","test5@sanity@reg","","Wed Nov 05 11:55:04 IST 2025","passed","Wed Nov 05 11:55:04 IST 2025","","practice\Tags.spec.js","",""
+"","780","test1@sanity","","Wed Nov 05 11:55:02 IST 2025","passed","Wed Nov 05 11:55:02 IST 2025","","practice\Tags.spec.js","",""
+"","383","test4@reg","","Wed Nov 05 11:55:04 IST 2025","passed","Wed Nov 05 11:55:04 IST 2025","","practice\Tags.spec.js","",""
+"","423","test2@sanity","","Wed Nov 05 11:55:03 IST 2025","passed","Wed Nov 05 11:55:03 IST 2025","","practice\Tags.spec.js","",""
