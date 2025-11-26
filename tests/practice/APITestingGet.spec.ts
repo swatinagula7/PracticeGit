@@ -1,7 +1,7 @@
-import {test, request} from "@playwright/test";
+import {test, request, APIRequestContext} from "@playwright/test";
 import { runInNewContext } from "vm";
 
-let reqContext2;
+let reqContext2: APIRequestContext;
 test.beforeAll("Before All the Test",async()=>{
 
      reqContext2 = await request.newContext({
