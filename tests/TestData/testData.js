@@ -154,7 +154,7 @@ const testData = {
     location: '95-25 Queens Blvd, Rego Park, NY 11374, USA',
     city: 'Rego Park',
     type: 'Claims',
-    deliveryType: 'normal',
+    deliveryType: 'rush',
     cardLast4: '1111',
     orderId: '149251',
     technician: 'Mark',
